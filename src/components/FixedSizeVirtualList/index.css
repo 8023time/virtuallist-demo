@@ -1,0 +1,21 @@
+.FS-virtual-list-viewport {
+  width: 100%;
+  overflow: auto;
+}
+
+.FS-virtual-list-spacer {
+  position: relative;
+  width: 100%;
+}
+
+.FS-virtual-list-content {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
+
+.FS-virtual-list-item {
+  box-sizing: border-box;
+  width: 100%;
+}

@@ -1,0 +1,21 @@
+.VS-virtual-list-viewport {
+  width: 100%;
+  overflow: auto;
+}
+
+.VS-virtual-list-spacer {
+  position: relative;
+  width: 100%;
+}
+
+.VS-virtual-list-content {
+  position: absolute;
+  inset: 0;
+}
+
+.VS-virtual-list-item {
+  position: absolute;
+  left: 0;
+  box-sizing: border-box;
+  width: 100%;
+}
